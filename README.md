@@ -1,11 +1,11 @@
 # 🙂 Hello, I'm Zachary Springer!
 
-## 🔗 Links
+## Links
 - 🌐 [Personal Website](https://lordbaldwin1.github.io/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/zachary-springer-09207424a/)
 - 📫 Reach me at: springerczachary@gmail.com
 
-## 🛠️ Skills 
+## Skills 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -25,7 +25,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 Vite ⚡ Knex.js 🔗
 
-## 📈 Featured Projects
+## Featured Projects
 - **[Data Engineering Visualization Project](https://github.com/lordbaldwin1/Data-Visualization)**: Visualizes bus speeds using a data pipeline in Python, PostgreSQL, and Mapbox GL.
 - **[React Mapping Application](https://github.com/lordbaldwin1/React-Maps-Module)**: Full-stack web application to display and navigate to location markers.
 - **[CRUD-JS](https://github.com/lordbaldwin1/crud-js)**: What I'm currently working on.
