@@ -24,8 +24,3 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 Vite ⚡ Knex.js 🔗
-
-## Featured Projects
-- **[Data Engineering Visualization Project](https://github.com/lordbaldwin1/Data-Visualization)**: Visualizes bus speeds using a data pipeline in Python, PostgreSQL, and Mapbox GL.
-- **[React Mapping Application](https://github.com/lordbaldwin1/React-Maps-Module)**: Full-stack web application to display and navigate to location markers.
-- **[CRUD-JS](https://github.com/lordbaldwin1/crud-js)**: What I'm currently working on.
