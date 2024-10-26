@@ -31,6 +31,8 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
 ![FreeBSD](https://img.shields.io/badge/-FreeBSD-AB2B28?logo=freebsd&logoColor=white)
