@@ -1,7 +1,7 @@
 ## Hi there, I'm Zachary Springer
 
 - 🎓 I have a B.S. in Computer Science from Portland State University
-- 🔭 I just finished [Vanishtype.com](https://vanishtype.com) a simply minimalistic typing test site built w/ React, TypeScript, Next.js, & Postgres
+- 🔭 I just finished [Vanishtype.com](https://vanishtype.com) built w/ React, TypeScript, Next.js, & Postgres
 - 🌱 I’m currently learning Golang!
 - 📫 How to reach me: springerczachary@gmail.com
 - Or, connect with me on LinkedIn: [Zachary Springer](https://www.linkedin.com/in/zachary-springer-09207424a/)
