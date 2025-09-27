@@ -1,2 +1,2 @@
-check out my website -> [zacharyspringer](https://zacharyspringer.dev)
+Check out my website -> [zacharyspringer.dev](https://zacharyspringer.dev)
 
