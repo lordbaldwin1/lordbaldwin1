@@ -1,2 +1,1 @@
-Check out my website -> [zacharyspringer.dev](https://zacharyspringer.dev)
-
+<a href="https://zacharyspringer.dev" target="_blank">zacharyspringer.dev</a>
