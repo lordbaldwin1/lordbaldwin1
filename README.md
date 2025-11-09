@@ -1,1 +1,1 @@
-[zacharyspringer.dev](https://zacharyspringer.dev){target="_blank"}
+<a href="https://zacharyspringer.dev" target="_blank" rel="noopener noreferrer">zacharyspringer.dev</a>
